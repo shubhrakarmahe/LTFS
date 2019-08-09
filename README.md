@@ -11,7 +11,7 @@ Amazing opportunity for all creative nerds to apply their data science & machine
 
 In this FinHack, you will develop a model for our most common but real challenge ‘Loan Default Prediction’ & also, get a feel of our business!
 
-## Learboard Rank out of 5000 participants:-
+Learboard Rank out of 5667 participants:
 
 Private Leaderboard - 379
 
